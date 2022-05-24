@@ -1,0 +1,42 @@
+
+
+.img-logo {
+    height: 80px;
+}
+
+.text-green{
+    color: green !important;
+}
+
+.text-green:hover{
+    color: lightgreen !important;
+}
+
+.navbar-title{
+    color: white
+}
+.ba1-text {
+    position: absolute;
+    top: 65%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke
+}
+.bg-blue {
+    background: darkblue;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+.img{
+    opacity: 0.45;
+    z-index: -1;
+}
+.btn-space {
+margin-right: 4px;
+margin-left: 4px;
+}
+.rounded-box {
+    border-radius: 5px;
+}
